@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lx-15d-upgrade)(type Legacy)(uri ${KIPRJMOD}/lx-15d-upgrade.lib)(options "")(descr ""))
+)
