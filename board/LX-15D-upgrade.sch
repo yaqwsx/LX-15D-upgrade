@@ -1138,5 +1138,4 @@ Wire Wire Line
 Connection ~ 8000 1850
 Wire Wire Line
 	8000 1850 8600 1850
-NoConn ~ 6200 4100
 $EndSCHEMATC
